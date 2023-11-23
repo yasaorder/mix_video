@@ -1,7 +1,7 @@
 # mix_video
-把芙芙的角色pv、剧情视频拼成轻链剧情pv
+！把芙芙的角色pv、剧情视频拼成轻链剧情pv
 
-23/11/24 更新 增加了用moviepy分割视频每一帧的方法，可以不用安装ffmepg
+-23/11/24 更新 增加了用moviepy分割视频每一帧的方法，可以不用安装ffmepg
 
 ## generate_cuts
 代替 cut.py ，将视频按帧分割成图片，保存到图片集avater中
