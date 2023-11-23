@@ -3,24 +3,30 @@
 
 -23/11/24 更新 增加了用moviepy分割视频每一帧的方法，可以不用安装ffmepg
 
-## generate_cuts
+## 使用方法
+用generate_cuts将视频按帧分割成图片，保存到图片集avater中，用generate根据目标视频的每一帧生成对应混合图片，
+最后将这些混合后的图片导入剪映中，添加音频导出即可
+
+### 效果演示：
+https://www.bilibili.com/video/BV1eH4y1q78z/?vd_source=36fab0b9c9d4be76f34dfe25d5bb2fa2
+
+### generate_cuts
 代替 cut.py ，将视频按帧分割成图片，保存到图片集avater中
 
-## cut.py
+### cut.py
 将视频按帧分割成图片，保存到图片集avater中
 
-## generate.py
+### generate.py
 根据目标视频的每一帧生成对应混合图片
 
-## generate_video.py
+### generate_video.py
 由生成的混合图片集生成视频。但是设备性能不行，或者代码没写好，没弄完。
 这一步实际是由剪映完成的。
 
-## generate_gpu.py
+### generate_gpu.py
 尝试用gpu加速计算没有完成
 
-## video_add_audio.py
+### video_add_audio.py
 为视频添加音频文件
 
-## 效果演示：
-https://www.bilibili.com/video/BV1eH4y1q78z/?vd_source=36fab0b9c9d4be76f34dfe25d5bb2fa2
+
