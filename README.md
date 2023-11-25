@@ -9,7 +9,8 @@
 最后将这些混合后的图片导入剪映中，添加音频导出即可
 
 ### 效果演示：
-https://www.bilibili.com/video/BV1eH4y1q78z/?vd_source=36fab0b9c9d4be76f34dfe25d5bb2fa2
+【把芙芙的角色pv、剧情视频拼成轻涟剧情pv】 https://www.bilibili.com/video/BV1eH4y1q78z/?share_source=copy_web&vd_source=2e750978c40c2df84c94c73e870d8386
+
 【用python做一张喜欢的壁纸的屏风特效】 https://www.bilibili.com/video/BV1vw411n7fK/?share_source=copy_web&vd_source=2e750978c40c2df84c94c73e870d8386
 
 ### generate_cuts
